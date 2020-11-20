@@ -1,4 +1,5 @@
-﻿foreach($var in "bash","ksh","psh","tcsh","tcl"){
+#  Author: Mr.Palani Karthikeyan 
+foreach($var in "bash","ksh","psh","tcsh","tcl"){
     if($var -eq "psh"){
         # break # exit from loop
         continue # next 
