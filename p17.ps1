@@ -1,4 +1,5 @@
-﻿$a=@(80,"httpd","www.abc.com",13.35) #<==
+#  Author: Mr.Palani Karthikeyan 
+$a=@(80,"httpd","www.abc.com",13.35) #<==
 echo $a
 echo "" # empty line
 $b=10,"www.abc.com",343.343  #<===
