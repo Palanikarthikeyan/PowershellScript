@@ -1,4 +1,6 @@
-﻿$pin=4567
+# Author: Mr.Palani Karthikeyan 
+
+$pin=4567
 $c=0
 while($c -lt 3){
 [int]$p=read-host "Enter a pin number"
