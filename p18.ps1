@@ -1,4 +1,5 @@
-﻿$myserver=@() # empty array
+#  Author: Mr.Palani Karthikeyan 
+$myserver=@() # empty array
 echo "Size of an array:$($myserver.length)"
 $c=0
 while($c -lt 5){
