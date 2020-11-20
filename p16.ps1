@@ -1,4 +1,6 @@
-﻿foreach($var in "host01","host02"){
+# Author: Mr.Palani Karthikeyan 
+
+foreach($var in "host01","host02"){
     echo $var
 }
 
