@@ -1,4 +1,5 @@
-﻿$var=$(Get-Process)
+#  Author: Mr.Palani Karthikeyan 
+$var=$(Get-Process)
 # echo $var # display to monitor
 
 echo $var >p1.log 
