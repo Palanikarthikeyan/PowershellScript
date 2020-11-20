@@ -1,4 +1,5 @@
-﻿$emp=@{}
+#  Author: Mr.Palani Karthikeyan 
+$emp=@{}
 
 $emp.add("Name","Arun")
 $emp['dept']='sales'
