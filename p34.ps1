@@ -1,4 +1,5 @@
-﻿$h=@{}
+#  Author: Mr.Palani Karthikeyan 
+$h=@{}
 for($i=0;$i -lt 5;$i++){
 	$K=read-host "Enter a alias name:"
 	$V=read-host "Enter a IP-Address"
