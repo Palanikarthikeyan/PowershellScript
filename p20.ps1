@@ -11,6 +11,8 @@ $var=Read-Host "Enter some text"
 Set-Content resultfile $var
 #>
 
+# Author: Mr.Palani Karthikeyan 
+
 for($i=0;$i -lt 5;$i++){
     $var=read-host "Enter Some Text"
     #Set-Content "D:\\ab.txt" $var - overwrite existing data
