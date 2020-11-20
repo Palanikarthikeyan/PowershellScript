@@ -1,4 +1,5 @@
-﻿$f=(get-content emp.csv)
+#  Author: Mr.Palani Karthikeyan 
+$f=(get-content emp.csv)
 $c=0
 
 foreach($var in $f){
